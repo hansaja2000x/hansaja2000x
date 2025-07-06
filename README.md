@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hansaja Hewanayake</h1>
 
-<!--
-**hansaja2000x/hansaja2000x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=24&center=true&vCenter=true&lines=Hi+I'm+Hansaja!;AR+and+VR+Developer;Game+Designer;Loves+Unity+%F0%9F%9A%80" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🎮 Unity Developer focused on **AR/VR** and immersive experiences
+- 🧑‍💻 Experience with **Meta Quest 3**, **hand tracking**, and **interactive UIs**
+- 🌍 Built **AR museum apps**, **health info VR apps**, and **endless runner games**
+- 🔌 Skilled in **Google play services**, **Photon**, **SQLite**, localization, and real-time interactions
+
+---
+
+### 💻 GitHub Stats
+
+![Hansaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=HansajaHewanayake&show_icons=true&theme=tokyonight)
+
+---
+
+### 🎯 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansajaHewanayake&layout=compact&theme=radical)
+
+---
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HansajaHewanayake&theme=highcontrast)](https://git.io/streak-stats)
+
+---
+
+### 🧰 Tech Stack
+
+![Unity](https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ARKit](https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Meta Quest](https://img.shields.io/badge/Meta%20Quest-001EFF?style=for-the-badge&logo=oculus&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Photon](https://img.shields.io/badge/Photon-1a75ff?style=for-the-badge)
+
+---
+
+### 🖼️ Just a vibe
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hansaja-hewanayake/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
