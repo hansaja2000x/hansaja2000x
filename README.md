@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=24&center=true&vCenter=true&lines=Hi+I'm+Hansaja!;AR+and+VR+Developer;Game+Designer;Loves+Unity+%F0%9F%9A%80" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hansaja2000x&label=Profile+Views&color=00ffff&style=flat-square" alt="hansaja2000x" />
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -12,6 +16,14 @@
 - 🧑‍💻 Experience with **Meta Quest 3**, **hand tracking**, and **interactive UIs**  
 - 🌍 Built **AR museum apps**, **health info VR apps**, and **endless runner games**  
 - 🔌 Skilled in **Unity**, **VR,AR**, **Mobile**, localization, and real-time interactions  
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hansaja2000x&theme=algolia&no-bg=true&no-frame=true" />
+</p>
 
 ---
 
@@ -33,6 +45,16 @@
 
 ---
 
+### 🎮 Featured Projects
+
+| Project | Description | Tech Used |
+|--------|-------------|-----------|
+| 🎡 **Carnival Rush** | Endless horror carnival runner game | Unity, C#, LevelPlay, URP |
+| 🧠 **Health VR** | Educational VR app with hand tracking & animations | Unity XR, Meta Quest 3, Localization |
+| 🏛️ **Castle AR** | Museum AR app with image/text/video info panels | Unity AR Foundation, CSV, SQLite |
+
+---
+
 ### 🧰 Tech Stack
 
 ![Unity](https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white)
@@ -45,10 +67,26 @@
 
 ---
 
-### 🖼️ Just a vibe
+### 📜 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</p>
+
+---
+
+### 🖼️ Just a Vibe
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+---
+
+### 🐍 Snake Game Contribution Tracker
+
+<p align="center">
+  <img src="https://github.com/hansaja2000x/hansaja2000x/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
