@@ -72,9 +72,8 @@
 ### 🖼️ Just a Vibe
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGV1ZnI3cHRzZXhtdm5qZ3V3ZTRsa2VyZnU3aXg5aWFhcm41NmJuZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="400" />
 </p>
-
 ---
 
 ### 🌈 Contribution Calendar (3D Heatmap Style)
