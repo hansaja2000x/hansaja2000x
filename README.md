@@ -8,28 +8,28 @@
 
 ### 🧠 About Me
 
-- 🎮 Unity Developer focused on **AR/VR** and immersive experiences
-- 🧑‍💻 Experience with **Meta Quest 3**, **hand tracking**, and **interactive UIs**
-- 🌍 Built **AR museum apps**, **health info VR apps**, and **endless runner games**
-- 🔌 Skilled in **Google play services**, **Photon**, **SQLite**, localization, and real-time interactions
+- 🎮 Unity Developer focused on **AR/VR** and immersive experiences  
+- 🧑‍💻 Experience with **Meta Quest 3**, **hand tracking**, and **interactive UIs**  
+- 🌍 Built **AR museum apps**, **health info VR apps**, and **endless runner games**  
+- 🔌 Skilled in **Firebase**, **Photon**, **SQLite**, localization, and real-time interactions  
 
 ---
 
 ### 💻 GitHub Stats
 
-![Hansaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=HansajaHewanayake&show_icons=true&theme=tokyonight)
+![Hansaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansaja2000x&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 🎯 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansajaHewanayake&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansaja2000x&layout=compact&theme=radical)
 
 ---
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HansajaHewanayake&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hansaja2000x&theme=highcontrast)](https://git.io/streak-stats)
 
 ---
 
@@ -59,7 +59,7 @@
   <a href="https://www.linkedin.com/in/hansaja-hewanayake/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:hewanayakehansaja@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
