@@ -11,7 +11,7 @@
 - 🎮 Unity Developer focused on **AR/VR** and immersive experiences  
 - 🧑‍💻 Experience with **Meta Quest 3**, **hand tracking**, and **interactive UIs**  
 - 🌍 Built **AR museum apps**, **health info VR apps**, and **endless runner games**  
-- 🔌 Skilled in **Firebase**, **Photon**, **SQLite**, localization, and real-time interactions  
+- 🔌 Skilled in **Unity**, **VR,AR**, **Mobile**, localization, and real-time interactions  
 
 ---
 
