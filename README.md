@@ -27,11 +27,6 @@
 
 ---
 
-### 💻 GitHub Stats
-
-![Hansaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansaja2000x&show_icons=true&theme=tokyonight)
-
----
 
 ### 🎯 Most Used Languages
 
@@ -50,8 +45,8 @@
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
 | 🎡 **Carnival Rush** | Endless horror carnival runner game | Unity, C#, LevelPlay, URP |
-| 🧠 **Health VR** | Educational VR app with hand tracking & animations | Unity XR, Meta Quest 3, Localization |
-| 🏛️ **Castle AR** | Museum AR app with image/text/video info panels | Unity AR Foundation, CSV, SQLite |
+| 🧠 **Harry Potter VR** | Voice command VR game & animations | Unity Open XR|
+| 🏛️ **Alice's room VR** | VR Immersive with hand tracking and hand teleport | Unity, Meta sdk|
 
 ---
 
