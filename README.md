@@ -27,7 +27,6 @@
 
 ---
 
-
 ### 🎯 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansaja2000x&layout=compact&theme=radical)
@@ -45,8 +44,8 @@
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
 | 🎡 **Carnival Rush** | Endless horror carnival runner game | Unity, C#, LevelPlay, URP |
-| 🧠 **Harry Potter VR** | Voice command VR game & animations | Unity Open XR|
-| 🏛️ **Alice's room VR** | VR Immersive with hand tracking and hand teleport | Unity, Meta sdk|
+| 🧠 **Harry Potter VR** | Voice command VR game & animations | Unity Open XR |
+| 🏛️ **Alice's room VR** | VR Immersive with hand tracking and teleport | Unity, Meta SDK |
 
 ---
 
@@ -78,10 +77,10 @@
 
 ---
 
-### 🐍 Snake Game Contribution Tracker
+### 🌈 Contribution Calendar (3D Heatmap Style)
 
 <p align="center">
-  <img src="https://github.com/hansaja2000x/hansaja2000x/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hansaja2000x&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
