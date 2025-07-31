@@ -73,7 +73,7 @@
 
 ---
 
-### 📊 Contribution Heatmap (Last 3 Months)
+### 📊 Contribution Heatmap
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hansaja2000x&theme=tokyo-night&hide_border=true&area=true" />
