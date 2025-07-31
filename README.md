@@ -22,7 +22,7 @@
 ### 🧬 Code Rain (Cyberpunk Style)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btU3gRMRUjYJWvu/giphy.gif" width="600"/>
+  <img src="https://giphy.com/gifs/the-matrix-WoD6JZnwap6s8" width="600"/>
 </p>
 
 ---
