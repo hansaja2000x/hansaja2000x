@@ -73,11 +73,12 @@
 
 ---
 
-### 📊 Contribution Heatmap
+### 📊 Recent Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hansaja2000x&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansaja2000x&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&fire=00ffff&ring=00ffff&currStreakLabel=00ffff" />
 </p>
+
 
 ---
 
