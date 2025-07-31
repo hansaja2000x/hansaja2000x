@@ -31,11 +31,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansaja2000x&layout=compact&theme=radical)
 
+
 ---
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hansaja2000x&theme=highcontrast)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hansaja2000x)](https://git.io/streak-stats)
+
 
 ---
 
