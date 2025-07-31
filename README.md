@@ -19,7 +19,7 @@
 
 ---
 
-### 🧬 Code Rain (Cyberpunk Style)
+### 🧬 Code Rain
 
 <p align="center">
   <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="600"/>
@@ -57,7 +57,7 @@
 
 ---
 
-### 🎭 Just a Vibe
+### 🎭 
 
 <p align="center">
   <img src="https://media.giphy.com/media/po9RznauAcPrHS7oVw/giphy.gif" width="400" />
